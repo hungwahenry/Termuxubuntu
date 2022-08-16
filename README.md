@@ -20,3 +20,7 @@ This is shell script that allows you to install Ubuntu in your termux applicatio
 ## Support 
 
 Drop a follow on my profile if you like this!
+Drop a follow on:
+FACEBOOK: https://www.facebook.com/realhungwahenry/
+TWITTER: https://twitter.com/realhungwahenry/
+LINKEDIN: https://linkedin.com/realhungwahenry/
