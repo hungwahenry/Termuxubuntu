@@ -17,6 +17,6 @@ This is shell script that allows you to install Ubuntu in your termux applicatio
 - Run the script: `./ubuntu.sh -y` and wait for the download to complete.
 - Now just start ubuntu: `./startubuntu.sh`
 
-## Description 
+## Support 
 
 Drop a follow on my profile if you like this!
