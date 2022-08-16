@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is shell script that allows you to install Ubuntu in your termux application without a rooted device on Android.
+This is shell script that allows you to install Ubuntu in your termux application without a rooted device on Android. Download Termux at https://f-droid.org/repo/com.termux_118.apk (91 MB)
 
 ### How to Install 
 
